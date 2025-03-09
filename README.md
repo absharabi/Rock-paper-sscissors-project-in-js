@@ -1,1 +1,1 @@
-# Rock-paper-sscissors-project-in-js
+# Rock-paper-scissors-project-in-js
